@@ -1,7 +1,7 @@
 # WHAT
 # Subject
 
-# WHY and HOW
+# WHAT and WHY
 # Explain why this change is being made
 
 # RELATED
